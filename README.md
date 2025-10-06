@@ -1,5 +1,7 @@
 ###CHECKOUT MY OUTPUT-VIDEO------------------> https://youtu.be/7emOGWErlos 
 
+###checkout the documentation ----------------->https://docs.google.com/document/d/11-Il78akzcuaAmtafaVYA7AITL84Gu2p7lyMMfceE08/edit?usp=sharing
+
 
 --------------------------------------------------------------------------------------------------------------------------
 
