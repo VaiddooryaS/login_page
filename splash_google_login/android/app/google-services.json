@@ -37,6 +37,13 @@
             {
               "client_id": "942831628763-mse210d10gqboqa6oaqgal05sar53ei2.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "942831628763-eb089jbqp4k47ukhiseboru8vgdbh473.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.splashGoogleLogin"
+              }
             }
           ]
         }

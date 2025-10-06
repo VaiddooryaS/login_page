@@ -66,6 +66,10 @@ class WelcomeScreen extends StatelessWidget {
                 user.email ?? 'No Email',
                 style: const TextStyle(fontSize: 19, color: Colors.blue),
               ),
+              Text(
+                user.uid,
+                style: const TextStyle(fontSize: 19, color: Colors.blue),
+              ),
               const SizedBox(height: 40), // Spacer
 
               // --- ADD THE TOGGLE SWITCH HERE ---
